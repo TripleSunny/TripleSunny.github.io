@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+body{
+	margin:0;
+	padding:0;
+	font-size:13px;
+	background-color:#171717;
+	color:#333333;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+a {
+color:#999999;
+text-decoration:none;
+}
+
+a:hover{
+color:#CCCCCC;
+text-decoration:none;
+}
+
+#head{
+width:1280px;
+height:355px;
+background-image:url(../img/head.jpg);
+
+}
+
+#booking{
+width:130;
+height:50;
+margin:300px 0 0 250px;
+position:absolute;
+}
+
+#about{
+line-height:24pt;
+}
+
+#info{
+line-height:22pt;
+color:#CCCCCC;
+}
+
+#footer1{
+line-height:20pt;
+color:#999999;
+font-size:13px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+
+}
+
+
+#room{
+line-height:22pt;
+}

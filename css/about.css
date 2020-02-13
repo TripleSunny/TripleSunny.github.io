@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+	.showbox {
+		width: 845px;
+		height: 681px;
+		border: 0px solid #1dd;
+		vertical-align: middle;
+		/*margin-top:10px;*/
+		z-index:1;
+	}
+	.about {
+		margin-top: 5px;
+		margin-left:15px;
+		width: 325px;
+		height:195px;
+		overflow: hidden;
+		background-color:#000;
+		opacity:1;
+        line-height:3pt;
+		}
+
+	.about a img {
+		width: 100px;
+		height: 60px;
+		border: 0px solid #1dd;
+		margin-left:4px;
+		margin-top:3.5px;
+		opacity:0.8;
+		margin-bottom:0px;
+	}
+	.about a img:hover{ 
+		border-width:0;
+		opacity:1;
+	}

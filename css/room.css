@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+	.showbox {
+		width: 800px;
+		height: 500px;
+		border: 0px solid #1dd;
+		vertical-align: middle;
+		margin-top:10px;
+		margin-left:10px;
+		position:absolute;
+	}
+	.room {
+		margin-top: 0px;
+		margin-left: 825px;
+		width: 100px;
+		overflow: hidden;
+		position: absolute;
+		/*background-color:#e7c9ea;*/
+	}
+	.room a {
+		margin-right: 0px;
+	}
+	.room a img {
+		margin-top:10px;
+		width: 100px;
+		height: 90px;
+		border: 0px solid #1dd;
+		vertical-align: middle;
+		margin-bottom:2px;
+	}
+
